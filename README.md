@@ -1,4 +1,4 @@
-![ ptrickk's Streak](https://github-readme-streak-stats.herokuapp.com/?user= ptrickk&theme=tokyonight&hide_border=false)
+![ptrickk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrickk&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **ptrickk/ptrickk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
