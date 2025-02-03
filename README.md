@@ -1,4 +1,4 @@
-## Hi there 👋
+![ ptrickk's Streak](https://github-readme-streak-stats.herokuapp.com/?user= ptrickk&theme=tokyonight&hide_border=false)
 
 <!--
 **ptrickk/ptrickk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
